@@ -1,0 +1,14 @@
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\IthinkItsOver\IthinkItsOver\bin\Debug\net8.0\IthinkItsOver.exe
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\IthinkItsOver\IthinkItsOver\bin\Debug\net8.0\IthinkItsOver.deps.json
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\IthinkItsOver\IthinkItsOver\bin\Debug\net8.0\IthinkItsOver.runtimeconfig.json
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\IthinkItsOver\IthinkItsOver\bin\Debug\net8.0\IthinkItsOver.dll
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\IthinkItsOver\IthinkItsOver\bin\Debug\net8.0\IthinkItsOver.pdb
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\IthinkItsOver\IthinkItsOver\obj\Debug\net8.0\IthinkItsOver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\IthinkItsOver\IthinkItsOver\obj\Debug\net8.0\IthinkItsOver.AssemblyInfoInputs.cache
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\IthinkItsOver\IthinkItsOver\obj\Debug\net8.0\IthinkItsOver.AssemblyInfo.cs
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\IthinkItsOver\IthinkItsOver\obj\Debug\net8.0\IthinkItsOver.csproj.CoreCompileInputs.cache
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\IthinkItsOver\IthinkItsOver\obj\Debug\net8.0\IthinkItsOver.dll
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\IthinkItsOver\IthinkItsOver\obj\Debug\net8.0\refint\IthinkItsOver.dll
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\IthinkItsOver\IthinkItsOver\obj\Debug\net8.0\IthinkItsOver.pdb
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\IthinkItsOver\IthinkItsOver\obj\Debug\net8.0\IthinkItsOver.genruntimeconfig.cache
+C:\Users\mptr0\Desktop\50-8-22\долгисишарп\IthinkItsOver\IthinkItsOver\obj\Debug\net8.0\ref\IthinkItsOver.dll
